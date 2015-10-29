@@ -1150,6 +1150,7 @@ morfologia
 moroso
 mortadella
 mostruoso
+motore
 mozzicone
 mucchio
 muffa
@@ -1370,7 +1371,7 @@ pipistrello
 piramide
 pistone
 pitagorico
-pizzocchero
+pizza
 planetario
 plastica
 plateale
@@ -1879,6 +1880,7 @@ tolse
 tonno
 tonsilla
 topazi
+topo
 tormenta
 tornasole
 tostare
