@@ -1,4 +1,3 @@
-abaco
 abbandono
 abbinare
 abbondare
@@ -48,7 +47,6 @@ agisca
 agnello
 ago
 agonistica
-agosto
 agricoltura
 aguzzare
 aiuola
@@ -154,9 +152,7 @@ asterisco
 astinenza
 astruso
 astuccio
-ateo
 atmosfera
-atomo
 atroci
 attaccare
 attese
@@ -238,7 +234,6 @@ bitume
 bizzarro
 blanda
 blocco
-boa
 bocca
 bofonchiare
 bolide
@@ -275,7 +270,6 @@ bugiardo
 bulbi
 buoi
 burattini
-burla
 burrasca
 cacciatora
 cadavere
@@ -304,7 +298,6 @@ cancelliere
 canestro
 cannocchiale
 cantilena
-caos
 caparbio
 capezzale
 capitolo
@@ -331,9 +324,7 @@ cavalletto
 cavoli
 ceffone
 celate
-celebre
 cellula
-cemento
 cenacolo
 cenni
 censimento
@@ -429,7 +420,6 @@ credenza
 crepuscolo
 cresima
 criminale
-cripta
 crittografia
 crogiolo
 crollo
@@ -494,13 +484,11 @@ dettaglio
 deturpare
 deviare
 diabolico
-diadema
 diaframma
 diagnosi
 dialettica
 diametro
 diapason
-diario
 diatriba
 dibattere
 dichiarare
@@ -566,7 +554,6 @@ dubitare
 duello
 duplice
 durante
-duro
 eccellente
 eccitare
 eclisse
@@ -582,7 +569,6 @@ egemonia
 egoismo
 egregio
 eguagliare
-elefante
 eleggere
 elemosina
 elettrizzare
@@ -602,7 +588,6 @@ enciclopedia
 endemico
 energumeno
 enfasi
-enigma
 enormi
 entrambi
 entusiasmo
@@ -613,7 +598,6 @@ epifania
 epilogo
 episodio
 epitaffio
-epoca
 eppure
 equatore
 equestre
@@ -685,7 +669,6 @@ fanghi
 fannullone
 fantino
 farmaceutico
-farsa
 fascicolo
 fastidio
 fattucchiere
@@ -710,7 +693,6 @@ fez
 fiacca
 fidanzare
 fiducia
-fiera
 figliolo
 figure
 filarmonico
@@ -750,12 +732,10 @@ forestiero
 forsennato
 fosco
 fosforo
-foto
 fracassare
 fradicio
 frammento
 franco
-frase
 fraterno
 fraudolento
 frecce
@@ -770,7 +750,6 @@ frittata
 frontespizio
 frusta
 fucsia
-fuga
 fulcro
 fumetto
 funambolo
@@ -841,13 +820,11 @@ giuramento
 giustiziere
 glaciale
 gladiatore
-gloria
 glossario
 glucosio
 glutine
 gobba
 gocciolatoio
-golfo
 gomitolo
 gonfia
 governare
@@ -866,7 +843,6 @@ grossi
 grottesco
 groviglio
 grugnire
-grumo
 guadagnare
 guaio
 guanciale
@@ -881,7 +857,6 @@ humus
 ibridi
 ideale
 idillio
-idioma
 idolatra
 idoneo
 idraulica
@@ -975,7 +950,6 @@ lacerare
 lacustre
 ladro
 lagnarsi
-laguna
 laici
 lambiccare
 lamiera
@@ -997,7 +971,6 @@ lembo
 lemuri
 lenticchia
 lenzuolo
-leopardo
 lepre
 letargo
 letizia
@@ -1093,7 +1066,6 @@ melenso
 mellifluo
 melodramma
 membrana
-memoria
 menadito
 mendicante
 menestrello
@@ -1126,7 +1098,6 @@ minareto
 minerale
 mingherlino
 minima
-minuto
 misericordia
 missili
 misura
@@ -1177,7 +1148,6 @@ nascituro
 nastro
 natalizio
 naufragio
-nausea
 nautica
 navata
 navicella
@@ -1213,11 +1183,8 @@ novanta
 novembre
 novizio
 nozze
-nube
 nubifragio
-nucleo
 nullo
-numero
 numismatica
 nuvola
 obbligazione
@@ -1228,7 +1195,6 @@ occasione
 occhiale
 occidente
 occulto
-oceano
 oculista
 odierno
 odissea
@@ -1257,7 +1223,6 @@ onorario
 opachi
 operoso
 oratore
-orbita
 orchestra
 ordinanza
 orefice
@@ -1290,7 +1255,6 @@ ottenebrare
 ottimismo
 ottobre
 ottuso
-ozono
 padrino
 paese
 paffuto
@@ -1301,7 +1265,6 @@ paguro
 palafitta
 palestra
 palizzata
-palma
 palude
 pancreas
 pandemonio
@@ -1321,7 +1284,6 @@ passiflora
 pastiglia
 patetico
 patibolo
-patria
 pattume
 pavimento
 pece
@@ -1416,7 +1378,6 @@ prestare
 prezzemolo
 prigione
 primogenito
-principe
 priori
 privilegio
 proboscide
@@ -1562,7 +1523,6 @@ rivista
 rivoltella
 rododendro
 romana
-rosa
 rosmarino
 rossetto
 rotondo
@@ -1659,7 +1619,6 @@ seduto
 segnatura
 segreta
 seguace
-selva
 semaforo
 semestre
 seminare
@@ -1718,7 +1677,6 @@ sinonimo
 sintomo
 sirene
 sismografo
-sistema
 situare
 sleali
 slitta
@@ -1749,11 +1707,9 @@ somigliare
 sommesso
 sonaglio
 sonnacchioso
-sonoro
 sopravvivere
 sorella
 sormontare
-sorpresa
 sorreggere
 sorso
 sortilegio
@@ -1857,7 +1813,6 @@ taroccare
 tartaruga
 taverna
 tavoletta
-teatro
 telescopio
 temi
 tenace
@@ -1892,7 +1847,6 @@ tonno
 tonsilla
 topazi
 topo
-tormenta
 tornasole
 torta
 tostare
@@ -1907,7 +1861,6 @@ trascendentale
 travestire
 trecento
 tredici
-tregua
 treppiede
 triangolo
 triciclo
@@ -1921,7 +1874,6 @@ tripudio
 trisavolo
 trito
 trivella
-trofeo
 tromba
 trottola
 trovatore
@@ -1956,13 +1908,11 @@ uniforme
 unisono
 universale
 uragano
-urbano
 usignolo
 ustione
 usufrutto
 usurpare
 utensile
-utopia
 vacuo
 vagabondo
 vagheggiare
@@ -1974,7 +1924,6 @@ valigia
 valore
 valuta
 valzer
-vampiro
 vanagloria
 vandalismo
 vaneggiare
@@ -2007,7 +1956,6 @@ vibrato
 vicario
 viceversa
 vicissitudine
-video
 vigilia
 vigliacco
 villano
