@@ -853,8 +853,10 @@ gonfia
 governare
 graduatoria
 grafite
+grammatica
 grano
 grappolo
+grasso
 graticola
 gravare
 greca
@@ -867,6 +869,7 @@ grossi
 grottesco
 groviglio
 grugnire
+grumo
 guadagnare
 guaio
 guanciale
@@ -968,6 +971,8 @@ isoscele
 isotermico
 ispessire
 ispido
+istante
+isterico
 istinto
 istruire
 kaki
@@ -1044,6 +1049,7 @@ luogo
 lussureggiare
 macabra
 macchinare
+macerie
 macina
 madornale
 madreperla
