@@ -74,6 +74,7 @@ alveare
 alzare
 amache
 amalgama
+amaranto
 amazzone
 ambizione
 ambra
@@ -122,6 +123,8 @@ apprendista
 appunto
 aprire
 aquilone
+aragosta
+arancione
 aratri
 arbitrio
 archivio
@@ -129,6 +132,7 @@ arcipelago
 arcobaleno
 ardesia
 ardua
+argento
 argine
 argomento
 arguti
@@ -144,6 +148,7 @@ artiglieria
 ascendente
 asciutto
 asfalto
+asparagi
 aspri
 assassino
 assedi
@@ -169,6 +174,7 @@ avanguardia
 avarie
 avere
 avido
+avorio
 avvenire
 avvistare
 avvoltoio
@@ -226,6 +232,7 @@ binocolo
 bipede
 birre
 bisbetico
+biscotto
 bisestile
 bislacco
 bisnipote
@@ -307,6 +314,7 @@ cappero
 capriccio
 capsula
 caravella
+carbone
 carciofo
 cardiaco
 caricatura
@@ -320,11 +328,13 @@ cassapanca
 castigare
 catastrofe
 categoria
+catrame
 cattedrale
 cavalletto
 cavoli
 ceffone
 celate
+celeste
 cellula
 cenacolo
 cenni
@@ -346,6 +356,7 @@ chirurgo
 chiuso
 cialtrone
 ciambella
+ciano
 ciarlatano
 ciascuno
 cibo
@@ -372,6 +383,7 @@ clausola
 clavicembalo
 clero
 clessidra
+cobalto
 coccodrillo
 cocomero
 codardo
@@ -419,6 +431,7 @@ crampi
 cravatta
 creatura
 credenza
+crema
 crepuscolo
 cresima
 criminale
@@ -755,6 +768,7 @@ frontespizio
 frusta
 fucsia
 fulcro
+fulvo
 fumetto
 funambolo
 funicolare
@@ -803,6 +817,7 @@ ghigliottina
 ghiottoneria
 ghiribizzo
 giacere
+giada
 giaguaro
 giallo
 giarrettiera
@@ -834,6 +849,7 @@ gonfia
 governare
 graduatoria
 grafite
+grano
 grappolo
 graticola
 gravare
@@ -893,6 +909,7 @@ incisivo
 incommensurabile
 incrollabile
 incupire
+indaco
 indeclinabile
 indispensabile
 indolenzire
@@ -949,6 +966,7 @@ ispessire
 ispido
 istinto
 istruire
+kaki
 laboratorio
 lacerare
 lacustre
@@ -986,11 +1004,13 @@ licantropia
 licenziare
 lichene
 lievito
+lilla
 limitrofo
 limoni
 lineamento
 linfa
 linguaggio
+lino
 liquirizia
 lirica
 liscia
@@ -1024,6 +1044,7 @@ macina
 madornale
 madreperla
 maestranza
+magenta
 maggiorenne
 magistrale
 magnifico
@@ -1035,6 +1056,7 @@ maledire
 malgrado
 maligno
 malleabile
+malva
 mandarino
 maneggio
 manfrina
@@ -1066,6 +1088,7 @@ meccanica
 medesimo
 media
 medusa
+melanzana
 melenso
 mellifluo
 melodramma
@@ -1200,6 +1223,7 @@ occasione
 occhiale
 occidente
 occulto
+ocra
 oculista
 odierno
 odissea
@@ -1305,6 +1329,7 @@ pensiero
 pentecoste
 penultimo
 peperino
+pera
 percuotere
 perenne
 perforare
@@ -1399,6 +1424,7 @@ prossimo
 protestante
 provvisorio
 prudente
+prugna
 pseudonimo
 psichiatria
 pterodattilo
@@ -1435,6 +1461,7 @@ raffinare
 ragguardevole
 ragionevole
 ramazza
+rame
 rammollire
 rampante
 randagio
@@ -1542,6 +1569,7 @@ rugiada
 rumore
 rurali
 ruvida
+sabbia
 saccente
 sacerdote
 sacrestano
@@ -1882,6 +1910,7 @@ trisavolo
 trito
 trivella
 tromba
+tronco
 trottola
 trovatore
 truce
@@ -1893,6 +1922,7 @@ tumulto
 tuonare
 tuorlo
 turbolento
+turchese
 turchino
 turni
 tutela
