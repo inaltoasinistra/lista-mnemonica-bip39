@@ -494,6 +494,7 @@ dibattere
 dichiarare
 diciassette
 didattico
+dieci
 diesis
 dietetica
 difendere
@@ -551,6 +552,7 @@ dromedario
 druidi
 dubbio
 dubitare
+due
 duello
 duplice
 durante
@@ -1619,6 +1621,7 @@ seduto
 segnatura
 segreta
 seguace
+sei
 semaforo
 semestre
 seminare
@@ -1859,6 +1862,7 @@ trampoli
 transitorio
 trascendentale
 travestire
+tre
 trecento
 tredici
 treppiede
@@ -1907,6 +1911,7 @@ unicorno
 uniforme
 unisono
 universale
+uno
 uragano
 usignolo
 ustione
