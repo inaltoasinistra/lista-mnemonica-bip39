@@ -79,6 +79,7 @@ amazzone
 ambizione
 ambra
 ambulante
+ammirazione
 ammutolire
 amorfo
 ampio
@@ -179,6 +180,7 @@ avvenire
 avvistare
 avvoltoio
 azienda
+azione
 azzeccare
 azzurro
 bacheca
@@ -450,6 +452,7 @@ culinario
 culmine
 cultura
 cuocere
+cuore
 cupole
 curato
 cursore
@@ -579,6 +582,7 @@ ecumenico
 eden
 edicola
 edificare
+edizioni
 effervescente
 effimero
 effusione
@@ -1214,6 +1218,7 @@ nozze
 nubifragio
 nullo
 numismatica
+nutrire
 nuvola
 obbligazione
 obelisco
