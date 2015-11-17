@@ -1,4 +1,3 @@
-abaco
 abbandono
 abbinare
 abbondare
@@ -48,7 +47,6 @@ agisca
 agnello
 ago
 agonistica
-agosto
 agricoltura
 aguzzare
 aiuola
@@ -76,10 +74,12 @@ alveare
 alzare
 amache
 amalgama
+amaranto
 amazzone
 ambizione
 ambra
 ambulante
+ammirazione
 ammutolire
 amorfo
 ampio
@@ -124,6 +124,8 @@ apprendista
 appunto
 aprire
 aquilone
+aragosta
+arancione
 aratri
 arbitrio
 archivio
@@ -131,6 +133,7 @@ arcipelago
 arcobaleno
 ardesia
 ardua
+argento
 argine
 argomento
 arguti
@@ -146,6 +149,7 @@ artiglieria
 ascendente
 asciutto
 asfalto
+asparagi
 aspri
 assassino
 assedi
@@ -154,9 +158,7 @@ asterisco
 astinenza
 astruso
 astuccio
-ateo
 atmosfera
-atomo
 atroci
 attaccare
 attese
@@ -173,10 +175,12 @@ avanguardia
 avarie
 avere
 avido
+avorio
 avvenire
 avvistare
 avvoltoio
 azienda
+azione
 azzeccare
 azzurro
 bacheca
@@ -230,6 +234,7 @@ binocolo
 bipede
 birre
 bisbetico
+biscotto
 bisestile
 bislacco
 bisnipote
@@ -238,7 +243,7 @@ bitume
 bizzarro
 blanda
 blocco
-boa
+blu
 bocca
 bofonchiare
 bolide
@@ -275,7 +280,6 @@ bugiardo
 bulbi
 buoi
 burattini
-burla
 burrasca
 cacciatora
 cadavere
@@ -304,7 +308,6 @@ cancelliere
 canestro
 cannocchiale
 cantilena
-caos
 caparbio
 capezzale
 capitolo
@@ -313,6 +316,7 @@ cappero
 capriccio
 capsula
 caravella
+carbone
 carciofo
 cardiaco
 caricatura
@@ -326,14 +330,14 @@ cassapanca
 castigare
 catastrofe
 categoria
+catrame
 cattedrale
 cavalletto
 cavoli
 ceffone
 celate
-celebre
+celeste
 cellula
-cemento
 cenacolo
 cenni
 censimento
@@ -346,6 +350,7 @@ cesoia
 cespuglio
 cetaceo
 cherubino
+chiaro
 chilogrammo
 chimico
 china
@@ -353,6 +358,7 @@ chirurgo
 chiuso
 cialtrone
 ciambella
+ciano
 ciarlatano
 ciascuno
 cibo
@@ -379,6 +385,7 @@ clausola
 clavicembalo
 clero
 clessidra
+cobalto
 coccodrillo
 cocomero
 codardo
@@ -426,10 +433,10 @@ crampi
 cravatta
 creatura
 credenza
+crema
 crepuscolo
 cresima
 criminale
-cripta
 crittografia
 crogiolo
 crollo
@@ -445,6 +452,7 @@ culinario
 culmine
 cultura
 cuocere
+cuore
 cupole
 curato
 cursore
@@ -494,18 +502,17 @@ dettaglio
 deturpare
 deviare
 diabolico
-diadema
 diaframma
 diagnosi
 dialettica
 diametro
 diapason
-diario
 diatriba
 dibattere
 dichiarare
 diciassette
 didattico
+dieci
 diesis
 dietetica
 difendere
@@ -563,10 +570,10 @@ dromedario
 druidi
 dubbio
 dubitare
+due
 duello
 duplice
 durante
-duro
 eccellente
 eccitare
 eclisse
@@ -575,6 +582,7 @@ ecumenico
 eden
 edicola
 edificare
+edizioni
 effervescente
 effimero
 effusione
@@ -582,7 +590,6 @@ egemonia
 egoismo
 egregio
 eguagliare
-elefante
 eleggere
 elemosina
 elettrizzare
@@ -602,7 +609,6 @@ enciclopedia
 endemico
 energumeno
 enfasi
-enigma
 enormi
 entrambi
 entusiasmo
@@ -613,7 +619,6 @@ epifania
 epilogo
 episodio
 epitaffio
-epoca
 eppure
 equatore
 equestre
@@ -685,7 +690,6 @@ fanghi
 fannullone
 fantino
 farmaceutico
-farsa
 fascicolo
 fastidio
 fattucchiere
@@ -710,7 +714,6 @@ fez
 fiacca
 fidanzare
 fiducia
-fiera
 figliolo
 figure
 filarmonico
@@ -750,12 +753,10 @@ forestiero
 forsennato
 fosco
 fosforo
-foto
 fracassare
 fradicio
 frammento
 franco
-frase
 fraterno
 fraudolento
 frecce
@@ -770,8 +771,8 @@ frittata
 frontespizio
 frusta
 fucsia
-fuga
 fulcro
+fulvo
 fumetto
 funambolo
 funicolare
@@ -820,6 +821,7 @@ ghigliottina
 ghiottoneria
 ghiribizzo
 giacere
+giada
 giaguaro
 giallo
 giarrettiera
@@ -841,19 +843,20 @@ giuramento
 giustiziere
 glaciale
 gladiatore
-gloria
 glossario
 glucosio
 glutine
 gobba
 gocciolatoio
-golfo
 gomitolo
 gonfia
 governare
 graduatoria
 grafite
+grammatica
+grano
 grappolo
+grasso
 graticola
 gravare
 greca
@@ -881,7 +884,6 @@ humus
 ibridi
 ideale
 idillio
-idioma
 idolatra
 idoneo
 idraulica
@@ -914,6 +916,7 @@ incisivo
 incommensurabile
 incrollabile
 incupire
+indaco
 indeclinabile
 indispensabile
 indolenzire
@@ -968,14 +971,16 @@ isoscele
 isotermico
 ispessire
 ispido
+istante
+isterico
 istinto
 istruire
+kaki
 laboratorio
 lacerare
 lacustre
 ladro
 lagnarsi
-laguna
 laici
 lambiccare
 lamiera
@@ -997,7 +1002,6 @@ lembo
 lemuri
 lenticchia
 lenzuolo
-leopardo
 lepre
 letargo
 letizia
@@ -1009,11 +1013,13 @@ licantropia
 licenziare
 lichene
 lievito
+lilla
 limitrofo
 limoni
 lineamento
 linfa
 linguaggio
+lino
 liquirizia
 lirica
 liscia
@@ -1043,10 +1049,12 @@ luogo
 lussureggiare
 macabra
 macchinare
+macerie
 macina
 madornale
 madreperla
 maestranza
+magenta
 maggiorenne
 magistrale
 magnifico
@@ -1058,6 +1066,7 @@ maledire
 malgrado
 maligno
 malleabile
+malva
 mandarino
 maneggio
 manfrina
@@ -1089,11 +1098,11 @@ meccanica
 medesimo
 media
 medusa
+melanzana
 melenso
 mellifluo
 melodramma
 membrana
-memoria
 menadito
 mendicante
 menestrello
@@ -1126,7 +1135,6 @@ minareto
 minerale
 mingherlino
 minima
-minuto
 misericordia
 missili
 misura
@@ -1177,7 +1185,6 @@ nascituro
 nastro
 natalizio
 naufragio
-nausea
 nautica
 navata
 navicella
@@ -1188,6 +1195,7 @@ nemici
 neofito
 neologismo
 nerboruto
+nero
 nervo
 nespolo
 nessuno
@@ -1213,12 +1221,10 @@ novanta
 novembre
 novizio
 nozze
-nube
 nubifragio
-nucleo
 nullo
-numero
 numismatica
+nutrire
 nuvola
 obbligazione
 obelisco
@@ -1228,7 +1234,7 @@ occasione
 occhiale
 occidente
 occulto
-oceano
+ocra
 oculista
 odierno
 odissea
@@ -1257,7 +1263,6 @@ onorario
 opachi
 operoso
 oratore
-orbita
 orchestra
 ordinanza
 orefice
@@ -1290,7 +1295,6 @@ ottenebrare
 ottimismo
 ottobre
 ottuso
-ozono
 padrino
 paese
 paffuto
@@ -1301,7 +1305,6 @@ paguro
 palafitta
 palestra
 palizzata
-palma
 palude
 pancreas
 pandemonio
@@ -1321,7 +1324,6 @@ passiflora
 pastiglia
 patetico
 patibolo
-patria
 pattume
 pavimento
 pece
@@ -1338,6 +1340,7 @@ pensiero
 pentecoste
 penultimo
 peperino
+pera
 percuotere
 perenne
 perforare
@@ -1416,7 +1419,6 @@ prestare
 prezzemolo
 prigione
 primogenito
-principe
 priori
 privilegio
 proboscide
@@ -1433,6 +1435,7 @@ prossimo
 protestante
 provvisorio
 prudente
+prugna
 pseudonimo
 psichiatria
 pterodattilo
@@ -1469,6 +1472,7 @@ raffinare
 ragguardevole
 ragionevole
 ramazza
+rame
 rammollire
 rampante
 randagio
@@ -1562,7 +1566,6 @@ rivista
 rivoltella
 rododendro
 romana
-rosa
 rosmarino
 rossetto
 rotondo
@@ -1577,6 +1580,7 @@ rugiada
 rumore
 rurali
 ruvida
+sabbia
 saccente
 sacerdote
 sacrestano
@@ -1659,7 +1663,7 @@ seduto
 segnatura
 segreta
 seguace
-selva
+sei
 semaforo
 semestre
 seminare
@@ -1718,7 +1722,6 @@ sinonimo
 sintomo
 sirene
 sismografo
-sistema
 situare
 sleali
 slitta
@@ -1749,11 +1752,9 @@ somigliare
 sommesso
 sonaglio
 sonnacchioso
-sonoro
 sopravvivere
 sorella
 sormontare
-sorpresa
 sorreggere
 sorso
 sortilegio
@@ -1857,7 +1858,6 @@ taroccare
 tartaruga
 taverna
 tavoletta
-teatro
 telescopio
 temi
 tenace
@@ -1892,7 +1892,6 @@ tonno
 tonsilla
 topazi
 topo
-tormenta
 tornasole
 torta
 tostare
@@ -1905,9 +1904,9 @@ trampoli
 transitorio
 trascendentale
 travestire
+tre
 trecento
 tredici
-tregua
 treppiede
 triangolo
 triciclo
@@ -1921,8 +1920,8 @@ tripudio
 trisavolo
 trito
 trivella
-trofeo
 tromba
+tronco
 trottola
 trovatore
 truce
@@ -1934,6 +1933,7 @@ tumulto
 tuonare
 tuorlo
 turbolento
+turchese
 turchino
 turni
 tutela
@@ -1955,14 +1955,13 @@ unicorno
 uniforme
 unisono
 universale
+uno
 uragano
-urbano
 usignolo
 ustione
 usufrutto
 usurpare
 utensile
-utopia
 vacuo
 vagabondo
 vagheggiare
@@ -1974,7 +1973,6 @@ valigia
 valore
 valuta
 valzer
-vampiro
 vanagloria
 vandalismo
 vaneggiare
@@ -1993,6 +1991,7 @@ vendemmia
 venerabile
 ventriloquo
 verbale
+verde
 vergogna
 veridico
 versatile
@@ -2007,7 +2006,6 @@ vibrato
 vicario
 viceversa
 vicissitudine
-video
 vigilia
 vigliacco
 villano
