@@ -66,7 +66,7 @@ class MnemonicTest(unittest.TestCase):
         wl += [str(x) for x in range(2048-len(wl))]
 
         with open('%s/%s.txt' % ('./mnemonic/wordlist', 'test'), 'w') as f:
-            f.writelines([x+'\n' for x in wl])
+            f.writelines([x+'\n' for x in wl[:2048]])
         
         languages = ['test'] # Mnemonic.list_languages()
 
