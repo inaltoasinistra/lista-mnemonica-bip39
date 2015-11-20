@@ -65,6 +65,8 @@ class MnemonicTest(unittest.TestCase):
 
         wl += [str(x) for x in range(2048-len(wl))]
 
+        # cut off the longest words
+        wl.sort(key=lambda x: len(x))
         with open('%s/%s.txt' % ('./mnemonic/wordlist', 'test'), 'w') as f:
             f.writelines([x+'\n' for x in wl[:2048]])
         
@@ -112,7 +114,21 @@ class MnemonicTest(unittest.TestCase):
         wl.sort(key=lambda x: len(x))
         print('Avg len: %.2f'%(sum([len(x) for x in wl[:2048]])/len(wl[:2048])))
         print('Words to exclude:',' '.join(wl[2048:][::-1]))
-            
+
+    def test_len_histogram(self):
+        with open('%s/%s.txt' % ('./mnemonic/wordlist', 'italian'), 'r') as f:
+            wl = [w.strip() for w in f.readlines()]
+
+        h = {}
+        for w in wl:
+            c = h.get(len(w),0)
+            h[len(w)] = c+1
+        print()
+        print('%10s%10s%10s'%('len(w)','freq(w)','cumul'))
+        cumul = 0
+        for k in sorted(h):
+            cumul += h[k]
+            print('%10d%10d%10d'%(k,h[k],cumul))
 def __main__():
     unittest.main()
 if __name__ == "__main__":
