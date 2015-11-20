@@ -105,7 +105,14 @@ class MnemonicTest(unittest.TestCase):
         if fail:
             self.fail("Similar words found")
 
+    def test_getinfo(self):
+        with open('%s/%s.txt' % ('./mnemonic/wordlist', 'italian'), 'r') as f:
+            wl = [w.strip() for w in f.readlines()]
 
+        wl.sort(key=lambda x: len(x))
+        print('Avg len: %.2f'%(sum([len(x) for x in wl[:2048]])/len(wl[:2048])))
+        print('Words to exclude:',' '.join(wl[2048:][::-1]))
+            
 def __main__():
     unittest.main()
 if __name__ == "__main__":
