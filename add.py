@@ -1,6 +1,22 @@
 #!/usr/bin/env python
 
 import sys
+import os
+
+def other_lists_info(wl):
+    ws = set(wl)
+    cumul = set()
+    for fn in os.listdir('wordlist'):
+        with open(os.path.join('wordlist',fn)) as f:
+            foreign = set([x.strip() for x in f.readlines()])
+        # Look for intersections
+        i = ws & foreign
+        print(fn,len(i))
+        cumul.update(i)
+    if cumul:
+        with open('valid-no-intersect.txt','w') as f:
+            f.writelines([x+'\n' for x in wl if x not in cumul])
+
 
 if not sys.argv[1:]:
     words = [x.strip() for x in sys.stdin.read().split()]
@@ -21,3 +37,5 @@ for n in words:
 if valid:
     with open('valid.txt','w') as f:
         f.writelines([x+'\n' for x in valid])
+
+    other_lists_info(valid)

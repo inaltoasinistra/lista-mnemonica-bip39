@@ -21,12 +21,14 @@
 #
 
 # Copy https://github.com/trezor/python-mnemonic/mnemonic into .
+# Copy wordlists from: https://github.com/bitcoin/bips/tree/master/bip-0039/*.txt to wordlist/
 
 from __future__ import print_function
 
 import json
 import random
 import sys
+import os
 import unittest
 from binascii import hexlify, unhexlify
 
@@ -34,6 +36,7 @@ from mnemonic import Mnemonic
 
 class MnemonicTest(unittest.TestCase):
 
+    itapath = '%s/%s.txt' % ('.', 'italian')
 
     def test_similarity(self):
         similar = (
@@ -60,7 +63,7 @@ class MnemonicTest(unittest.TestCase):
         )
 
         # fix len
-        with open('%s/%s.txt' % ('./mnemonic/wordlist', 'italian'), 'r') as f:
+        with open(self.itapath, 'r') as f:
             wl = [w.strip() for w in f.readlines()]
 
         wl += [str(x) for x in range(2048-len(wl))]
@@ -108,7 +111,7 @@ class MnemonicTest(unittest.TestCase):
             self.fail("Similar words found")
 
     def test_getinfo(self):
-        with open('%s/%s.txt' % ('./mnemonic/wordlist', 'italian'), 'r') as f:
+        with open(self.itapath, 'r') as f:
             wl = [w.strip() for w in f.readlines()]
 
         wl.sort(key=lambda x: len(x))
@@ -116,7 +119,7 @@ class MnemonicTest(unittest.TestCase):
         print('Words to exclude:',' '.join(wl[2048:][::-1]))
 
     def test_len_histogram(self):
-        with open('%s/%s.txt' % ('./mnemonic/wordlist', 'italian'), 'r') as f:
+        with open(self.itapath, 'r') as f:
             wl = [w.strip() for w in f.readlines()]
 
         h = {}
@@ -129,6 +132,18 @@ class MnemonicTest(unittest.TestCase):
         for k in sorted(h):
             cumul += h[k]
             print('%10d%10d%10d'%(k,h[k],cumul))
+
+    def test_other_wordlist_comp(self):
+        with open(self.itapath, 'r') as f:
+            ws = set([w.strip() for w in f.readlines()])
+        for fn in os.listdir('wordlist'):
+            if fn[:-4] in ['spanish']:
+                continue
+            with open(os.path.join('wordlist',fn)) as f:
+                foreign = set([x.strip() for x in f.readlines()])
+            # Look for intersections
+            self.assertFalse(ws & foreign,fn)
+            
 def __main__():
     unittest.main()
 if __name__ == "__main__":
