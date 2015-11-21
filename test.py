@@ -31,6 +31,7 @@ import sys
 import os
 import unittest
 from binascii import hexlify, unhexlify
+from functools import reduce
 
 from mnemonic import Mnemonic
 
@@ -136,13 +137,24 @@ class MnemonicTest(unittest.TestCase):
     def test_other_wordlist_comp(self):
         with open(self.itapath, 'r') as f:
             ws = set([w.strip() for w in f.readlines()])
+        res = {}
         for fn in os.listdir('wordlist'):
             if fn[:-4] in ['spanish']:
                 continue
             with open(os.path.join('wordlist',fn)) as f:
                 foreign = set([x.strip() for x in f.readlines()])
             # Look for intersections
-            self.assertFalse(ws & foreign,fn)
+            res[fn] = ws & foreign
+        # print stats
+        for fn in res:
+            print(fn,len(res[fn]),res[fn])
+
+        cumul = reduce(lambda x,y: x|y,res.values())
+        if cumul:
+            # suggest a compatible list
+            with open('test-suggested-list.txt','w') as f:
+                f.writelines(sorted([x+'\n' for x in ws if x not in cumul],key=lambda x: len(x)))
+        self.assertFalse( cumul )
             
 def __main__():
     unittest.main()
