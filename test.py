@@ -147,7 +147,8 @@ class MnemonicTest(unittest.TestCase):
             res[fn] = ws & foreign
         # print stats
         for fn in res:
-            print(fn,len(res[fn]),res[fn])
+            if len(res[fn]):
+                print(fn,len(res[fn]),res[fn])
 
         cumul = reduce(lambda x,y: x|y,res.values())
         if cumul:
