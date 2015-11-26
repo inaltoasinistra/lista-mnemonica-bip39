@@ -27,7 +27,6 @@ sia
 tir
 tre
 tuo
-uno
 uso
 via
 voi
@@ -82,7 +81,6 @@ lago
 lama
 lato
 lido
-lino
 lira
 lite
 lode
@@ -112,7 +110,6 @@ orzo
 otre
 pace
 paio
-pera
 peso
 pila
 polo
@@ -222,7 +219,6 @@ coppa
 corte
 cotto
 cozza
-crema
 creta
 croce
 cruda
@@ -273,10 +269,8 @@ giada
 gilda
 gobba
 gonna
-grano
 greca
 grigi
-grumo
 guaio
 gusto
 humus
@@ -417,7 +411,6 @@ varco
 vario
 vasca
 vasto
-verde
 vespa
 veste
 vetro
@@ -855,7 +848,6 @@ torcia
 trarre
 tratta
 tromba
-tronco
 troppo
 truppe
 tundra
