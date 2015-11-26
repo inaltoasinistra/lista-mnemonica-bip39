@@ -140,8 +140,6 @@ class MnemonicTest(unittest.TestCase):
             ws = set([w.strip() for w in f.readlines()])
         res = {}
         for fn in os.listdir('wordlist'):
-            if fn[:-4] in ['spanish'] and False:
-                continue
             with codecs.open(os.path.join('wordlist',fn), 'r', 'utf-8') as f:
                 #with open(os.path.join('wordlist',fn)) as f:
                 foreign = set([x.strip() for x in f.readlines()])
