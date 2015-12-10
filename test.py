@@ -156,7 +156,19 @@ class MnemonicTest(unittest.TestCase):
             with open('test-suggested-list.txt','w') as f:
                 f.writelines(sorted([x+'\n' for x in ws if x not in cumul],key=lambda x: len(x)))
         self.assertFalse( cumul )
-            
+
+    def test_some_random_seeds(self):
+        '''They are not real seeds'''
+        with open(self.itapath, 'r') as f:
+            wl = [w.strip() for w in f.readlines()]
+
+        dims = [12,18,24]
+        for dim in dims:
+            print('\nSeed word length:',dim)
+            seed = ' '.join([random.choice(wl) for _ in range(dim)])
+            print(seed)
+            print('Chr len:',len(seed))
+        
 def __main__():
     unittest.main()
 if __name__ == "__main__":
