@@ -29,6 +29,7 @@ import json
 import random
 import sys
 import os
+import codecs
 import unittest
 from binascii import hexlify, unhexlify
 from functools import reduce
@@ -139,9 +140,8 @@ class MnemonicTest(unittest.TestCase):
             ws = set([w.strip() for w in f.readlines()])
         res = {}
         for fn in os.listdir('wordlist'):
-            if fn[:-4] in ['spanish']:
-                continue
-            with open(os.path.join('wordlist',fn)) as f:
+            with codecs.open(os.path.join('wordlist',fn), 'r', 'utf-8') as f:
+                #with open(os.path.join('wordlist',fn)) as f:
                 foreign = set([x.strip() for x in f.readlines()])
             # Look for intersections
             res[fn] = ws & foreign
@@ -156,7 +156,19 @@ class MnemonicTest(unittest.TestCase):
             with open('test-suggested-list.txt','w') as f:
                 f.writelines(sorted([x+'\n' for x in ws if x not in cumul],key=lambda x: len(x)))
         self.assertFalse( cumul )
-            
+
+    def test_some_random_seeds(self):
+        '''They are not real seeds'''
+        with open(self.itapath, 'r') as f:
+            wl = [w.strip() for w in f.readlines()]
+
+        dims = [12,18,24]
+        for dim in dims:
+            print('\nSeed word length:',dim)
+            seed = ' '.join([random.choice(wl) for _ in range(dim)])
+            print(seed)
+            print('Chr len:',len(seed))
+        
 def __main__():
     unittest.main()
 if __name__ == "__main__":
