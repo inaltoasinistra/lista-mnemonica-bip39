@@ -6,9 +6,6 @@ NW = 2
 ND = 3
 NP = 5
 
-# Possible orders for 2 words and 3 digits:
-CM = 8
-
 import random
 import math
 import os.path
@@ -19,9 +16,13 @@ DIGITS = '0123456789'
 with open(WORDLIST, 'r') as f:
     words = [x.strip() for x in f.readlines()]
 
-def n_orders(nw, nd):
-    '''nuober of possible orders'''
-    return 8 if nw==2 and nd==3 else NotImplemented
+def n_orders(x, y):
+    '''nuober of possible orders
+    I think that there is a formula for this.
+    TODO: find it'''
+    if x == 0 or y ==0:
+        return 1
+    return n_orders(x, y-1) + n_orders(x-1, y)
 
 def entropy():
     '''At least'''
