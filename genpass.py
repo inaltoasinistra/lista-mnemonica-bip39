@@ -17,12 +17,9 @@ with open(WORDLIST, 'r') as f:
     words = [x.strip() for x in f.readlines()]
 
 def n_orders(x, y):
-    '''nuober of possible orders
-    I think that there is a formula for this.
-    TODO: find it'''
-    if x == 0 or y ==0:
-        return 1
-    return n_orders(x, y-1) + n_orders(x-1, y)
+    '''Take the total number of permutations
+    and cut off the permutations of x and y inside their sets'''
+    return math.factorial(x + y) // math.factorial(x) // math.factorial(y)
 
 def entropy():
     '''At least'''
