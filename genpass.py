@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-from pip._vendor.pkg_resources import invalid_marker
 
 WORDLIST = 'mnemonic/wordlist/italian.txt'
 NW = 2
