@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-WORDLIST = 'mnemonic/wordlist/italian.txt'
+WORDLIST = 'temp.txt'
 NW = 2
 ND = 3
 
